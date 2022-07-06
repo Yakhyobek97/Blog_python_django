@@ -1,0 +1,5 @@
+
+.env
+__pychase__/
+db.sqlite3
+
